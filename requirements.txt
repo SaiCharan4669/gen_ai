@@ -1,0 +1,9 @@
+gradio
+google-generativeai
+Pillow
+opencv-python
+numpy
+pandas
+tqdm
+python-dotenv
+requests
