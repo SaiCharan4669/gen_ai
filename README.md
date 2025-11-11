@@ -13,4 +13,5 @@ Scalable & Consistent: Works across diverse input formats with stable performanc
 Interactive UI: Built with Gradio for quick demos and user interaction.
 
 
-
+# APP LINK
+  http://127.0.0.1:7860
